@@ -1,2 +1,3 @@
-# FB_ODTW
-Docs for Facebook group : https://facebook.com/groups/odtwn/
+# Opendata/TW
+
+-   臉書社群 : https://facebook.com/group/odtwn
